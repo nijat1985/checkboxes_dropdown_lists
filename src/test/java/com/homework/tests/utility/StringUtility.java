@@ -97,7 +97,7 @@ public class StringUtility {
 
     /**
      * takes a list of web elements
-     * returns a list of Strings
+     * returns a trimmed list of Strings
      */
 
     public static List<String> getElementsText(List<WebElement> listEl){
@@ -107,6 +107,5 @@ public class StringUtility {
         }
         return listSt;
     }
-
 
 }

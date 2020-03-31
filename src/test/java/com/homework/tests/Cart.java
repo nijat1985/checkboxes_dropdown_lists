@@ -16,7 +16,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
-public class Cart_come_back_to_it {
+public class Cart {
     WebDriver driver;
 
     @BeforeMethod
